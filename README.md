@@ -8,7 +8,7 @@ Solder your buttons to pin2 - pin9 and 3.3V.
 Additionally add a 10kOhm resistor as pulldown to ground for every button, so it won't float.
 Connect your Raspberry pi PICO to Arduino IDE and upload the Joysick.ino file.
 
-![image](https://user-images.githubusercontent.com/98104822/230367320-cb232546-3829-4318-bba6-d7ade9a60e15.png)
+![image](https://user-images.githubusercontent.com/98104822/230372347-77db142b-2f04-4574-baae-15ceaa9239e9.png)
 
 ![image](https://user-images.githubusercontent.com/98104822/230369706-20155682-b852-4408-8231-78ee0d4636c0.png)
 
