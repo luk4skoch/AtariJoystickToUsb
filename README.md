@@ -22,7 +22,7 @@ Connect your Raspberry pi PICO to Arduino IDE and upload the Joysick.ino file.
 *You could also use the resistors as pullup but then you have to connect the pins to GND instead of 3.3V.
 
 ## Images
-![image](https://user-images.githubusercontent.com/98104822/230380295-991baf42-edea-40e8-b056-314ad7e064ef.png)
+![image](https://user-images.githubusercontent.com/98104822/230380359-442302cb-fed5-4dc9-b98d-1fe750f12e45.png)
 
 Raspberry pi PICO used pins
 
